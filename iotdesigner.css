@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cabecalho{
+    height: 350px;
+    background-image: url(img/gestão-de-Telecom-exemplar-1-1200x500.jpg);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#menu{
+    width: 687px;
+    height: 27px;
+    left: 720px;
+    top: 66px;
+    -o-object-position: 50px;
+    
+
+}
