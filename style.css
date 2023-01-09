@@ -1,0 +1,12 @@
+nav{
+    height: 80px;
+}
+
+.svg-link ul{
+    display: inline-block;
+    position: fixed;
+    top: 10px;
+    right: 10px;    
+}
+
+
