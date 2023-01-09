@@ -9,4 +9,7 @@ nav{
     right: 10px;    
 }
 
+.texto p{
+    text-transform: capitalize;
+}
 
