@@ -3,10 +3,10 @@ nav{
 }
 
 .svg-link ul{
-    display: inline-block;
-    position: fixed;
-    top: 10px;
-    right: 10px;    
+    display:flex;
+    position: sticky;
+        top: 10px;
+        right: 100px ;
 }
 
 .texto p{
